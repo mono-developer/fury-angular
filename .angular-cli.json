@@ -19,7 +19,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "ms",
       "styles": [
-        "../node_modules/font-awesome/css/font-awesome.css",
         "../node_modules/normalize.css/normalize.css",
         "./app/core/highlightjs/github.css",
         "../node_modules/nvd3/build/nv.d3.css",
